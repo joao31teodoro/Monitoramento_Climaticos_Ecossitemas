@@ -1,15 +1,15 @@
-*.html linguist-detectable=true
-*.html linguist-documentation=false
-*.html linguist-language=html
+Site/*.html linguist-detectable=true
+Site/*.html linguist-documentation=false
+Site/*.html linguist-language=html
 
-*.css linguist-detectable=true
-*.css linguist-documentation=false
-*.css linguist-language=css
+Site/*.css linguist-detectable=true
+Site/*.css linguist-documentation=false
+Site/*.css linguist-language=css
 
-*.py linguist-detectable=true
-*.py linguist-documentation=false
-*.py linguist-language=python
+Gráficos/*.py linguist-detectable=true
+Gráficos/*.py linguist-documentation=false
+Gráficos/*.py linguist-language=python
 
-*.js linguist-detectable=true
-*.js linguist-documentation=false
-*.js linguist-language=javascript
+Site/*.js linguist-detectable=true
+Site/*.js linguist-documentation=false
+Site/*.js linguist-language=javascript
