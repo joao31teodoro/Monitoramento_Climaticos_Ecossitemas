@@ -1,6 +1,6 @@
+import glob
 import pandas as pd
 import plotly.graph_objects as go
-import glob
 from flask import Flask, Response
 
 app = Flask(__name__)
