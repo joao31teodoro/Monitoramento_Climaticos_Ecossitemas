@@ -1,0 +1,15 @@
+Site/*.html linguist-detectable=true
+Site/*.html linguist-documentation=false
+Site/*.html linguist-language=html
+
+Site/*.css linguist-detectable=true
+Site/*.css linguist-documentation=false
+Site/*.css linguist-language=css
+
+Gráficos/*.py linguist-detectable=true
+Gráficos/*.py linguist-documentation=false
+Gráficos/*.py linguist-language=python
+
+Site/*.js linguist-detectable=true
+Site/*.js linguist-documentation=false
+Site/*.js linguist-language=javascript
